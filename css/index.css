@@ -1,5 +1,9 @@
 .body {
-  margin: auto;
+  margin: 40px auto;
+  max-width: 700px;
+  line-height: 1.6;
+  font-size: 18px;
+  color: #444;
 }
 
 img {
@@ -9,6 +13,7 @@ img {
 }
 
 .dummyText {
-  padding: 0px 20px;
+  padding: 0 10px;
+  font-size: 18px;
   text-align: center;
 }
